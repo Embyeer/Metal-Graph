@@ -1,0 +1,8 @@
+{
+  "name": "Metal Atlas",
+  "description": "A technical and historical exploration of the evolution of heavy metal subgenres, featuring detailed timelines, musical scales, and Spotify listening analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
