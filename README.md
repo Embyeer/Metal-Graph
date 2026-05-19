@@ -70,5 +70,4 @@ Nume Prenume: Bătinaș Luca Ștefan
 * Școala: Colegiul Național ,,Andrei Mureșanu" Dej
 * Clasa: 10
 * Județ: Cluj
-
-Oraș: Dej
+* Oraș: Dej
