@@ -59,25 +59,16 @@ Metal Atlas este o platformă web Full-Stack conceptualizată ca un atlas topolo
 ## Realizatori
 
 Nume: Druș Luca Ioan
-
-Rol: Co-Author and Lead Developer
-
-Școala: Colegiul Național ,,Andrei Mureșanu" Dej
-
-Clasa: 10
-
-Județ: Cluj
-
-Oraș: Dej
+* Rol: Co-Author and Lead Developer
+* Școala: Colegiul Național ,,Andrei Mureșanu" Dej
+* Clasa: 10
+* Județ: Cluj
+* Oraș: Dej
 
 Nume Prenume: Bătinaș Luca Ștefan
-
-Rol: Co-Author and Cybersecurity Expert
-
-Școala: Colegiul Național ,,Andrei Mureșanu" Dej
-
-Clasa: 10
-
-Județ: Cluj
+* Rol: Co-Author and Cybersecurity Expert
+* Școala: Colegiul Național ,,Andrei Mureșanu" Dej
+* Clasa: 10
+* Județ: Cluj
 
 Oraș: Dej
