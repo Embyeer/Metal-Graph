@@ -72,3 +72,10 @@ Nume Prenume: Bătinaș Luca Ștefan
 * Clasa: 10
 * Județ: Cluj
 * Oraș: Dej
+  
+<img width="1882" height="911" alt="Screenshot 2026-05-20 102528" src="https://github.com/user-attachments/assets/8347cd46-3b10-4676-8fc0-9dee74ebd535" />
+
+<img width="1907" height="971" alt="Screenshot 2026-05-20 102538" src="https://github.com/user-attachments/assets/0da671f6-c8d4-45bb-9eff-2db256585baf" />
+
+<img width="1893" height="913" alt="Screenshot 2026-05-20 102551" src="https://github.com/user-attachments/assets/f6dbf6b4-5411-46cb-908f-67be0f12e3d5" />
+
