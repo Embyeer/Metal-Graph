@@ -2,6 +2,8 @@
 
 Metal Atlas este o platformă web Full-Stack conceptualizată ca un atlas topologic, muzicologic și statistic dedicat evoluției și interconexiunilor dintre subgenurile muzicii Heavy Metal. Proiectul propune o alternativă non-liniară la enciclopedie clasică, transformând datele istorice și teoretice în vizualizări interactive matematice și pachete de analiză de tip Big Data.
 
+Link: https://metal-atlas-1014700351505.europe-west2.run.app/
+
 ---
 
 ## ⚡ Caracteristici Principale (Core Modules)
