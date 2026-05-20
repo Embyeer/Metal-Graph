@@ -6,7 +6,8 @@ Metal Atlas este o platformă web Full-Stack conceptualizată ca un atlas topolo
 
 ## ⚡ Caracteristici Principale (Core Modules)
 
-1. **Topologie Dinamică (Harta Genurilor):** * Implementare de grafuri orientate folosind **D3.js**.
+1. **Topologie Dinamică (Harta Genurilor):**
+   * Implementare de grafuri orientate folosind **D3.js**.
    * Algoritm de simulare a forțelor fizice multidimensionale în timp real (`d3.forceManyBody`, `d3.forceCenter`) pentru așezarea organică a nodurilor.
    * Calcularea dinamică a indicatorului de *Degree Centrality* pentru scalarea vizuală a genurilor în funcție de impactul istoric.
 
